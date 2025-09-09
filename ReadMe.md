@@ -326,6 +326,10 @@ restrict the number of requests a user can make in a certain period of time. Alm
      ![alt text](image-42.png)
      ![alt text](image-43.png)
 
+### NOTE --->
+- Terminal 1: npm run dev
+- Terminal 2: npx @upstash/qstash-cli dev --port 8081
+- Terminal 3: copy Copy cURL command and run in new terminal
 
 
 ### 17. Deploy & Host to our own virtual private server
