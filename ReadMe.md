@@ -334,3 +334,7 @@ restrict the number of requests a user can make in a certain period of time. Alm
 ## Github
 - git init
 - git add .
+- git commit -m "initial commit"
+- git branch -M main
+- git remote add origin https://github.com/HimanayK/subscription-tracker.git
+- git push -u origin main
