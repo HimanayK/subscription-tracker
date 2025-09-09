@@ -1,0 +1,7 @@
+{
+  "markdown.editor.updateLinksOnPaste.enabled": true,
+  "markdown.validate.duplicateLinkDefinitions.enabled": "warning",
+  "markdown.validate.fragmentLinks.enabled": "warning",
+  "markdown.validate.unusedLinkDefinitions.enabled": "hint",
+  "markdownlint.config": {}
+}
